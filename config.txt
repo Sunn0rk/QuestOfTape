@@ -1,0 +1,4 @@
+ReadingDelay = 0
+RecordingDelay = 0
+RotateTapeDelay = 0
+Option = 1
